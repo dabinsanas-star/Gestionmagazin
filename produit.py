@@ -6,3 +6,7 @@ prix = float(input("Donner le prix unitaire :"))
 print("Référence :",ref)
 print("Désignation :",designation)
 print("Prix unitarire: ",prix,"DT")
+# Saisie de la quantité
+quantite = int(input("Donner la quantié en stock :"))
+#Affichage de la quantité
+print("Quantité en stock :")
