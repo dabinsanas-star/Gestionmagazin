@@ -10,3 +10,6 @@ print("Prix unitarire: ",prix,"DT")
 quantite = int(input("Donner la quantié en stock :"))
 #Affichage de la quantité
 print("Quantité en stock :")
+#Calcul de la valeur du stock
+valeur = prix*quantite
+print("Valeur totale du stock :",valeur,"DT")
